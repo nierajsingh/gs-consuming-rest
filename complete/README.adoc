@@ -3,5 +3,5 @@
 == Dev Containers
 
 Install Dev Container for this guide:
-https://vscode.dev/redirect?url=vscode://ms-vscode-remote.remote-containers/cloneInVolume?url=https://github.com/nierajsingh/gs-consuming-rest/tree/dev-containers [create dev container]
+https://vscode.dev/redirect?url=vscode://ms-vscode-remote.remote-containers/cloneInVolume?url=https://github.com/nierajsingh/gs-consuming-rest[create dev container]
 
